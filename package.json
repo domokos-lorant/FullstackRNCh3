@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "expo": "~36.0.0",
+    "expo-constants": "~8.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
@@ -18,7 +19,9 @@
   "devDependencies": {
     "@types/react": "~16.9.0",
     "@types/react-native": "~0.60.23",
+    "babel-eslint": "^10.1.0",
     "babel-preset-expo": "~8.0.0",
+    "eslint": "^7.12.1",
     "typescript": "~3.6.3"
   },
   "private": true
